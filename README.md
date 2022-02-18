@@ -1,6 +1,6 @@
 ## <p align="center">Hello! I'm Alex 👋</p>
 
-I'm a UX Engineer at <a href="https://www.azavea.com">Azavea</a>. We advance geospatial technology and research for civic and social impact.
+I'm a Frontend Software Engineer at <a href="https://www.anedot.com">Anedot</a>. We make giving tools for churches, non-profits, schools, and campaigns.
 
 I love all things having to do with front-end development, but I especially love using React and Typescript to build compelling and accessible experiences for users.
 
